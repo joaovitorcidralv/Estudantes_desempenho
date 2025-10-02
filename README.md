@@ -17,6 +17,11 @@ Quantidade de horas e notas relacionadas
 
 <img width="716" height="570" alt="image" src="https://github.com/user-attachments/assets/96ef4e38-ca91-44f6-8a4f-a767df3839d3" />
 
+<img width="712" height="570" alt="image" src="https://github.com/user-attachments/assets/3dbdf528-f079-4b9b-a50d-aea7fe9f4deb" />
+
+Estudantes com menos tempo em redes sociais ocupam a melhor faixa no gráfico, decaindo com o aumento das horas.
+
+
 
 
 
