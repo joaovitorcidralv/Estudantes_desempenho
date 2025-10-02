@@ -1,6 +1,6 @@
 # Estudantes_desempenho
 
-Dados de diversos estudantes foram carregados afim de passarem por análise e investigação de índices e insights sobre a performance dos mesmos.
+Dados de estudantes carregados para análise de dados e comprrensão de desempenho do corpo alunos.
 <img width="1793" height="467" alt="image" src="https://github.com/user-attachments/assets/6773d530-68d2-4877-946e-732705a1eb5d" />
 
 
