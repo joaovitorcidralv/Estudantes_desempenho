@@ -6,4 +6,3 @@ Dados de diversos estudantes foram carregados afim de passarem por análise e in
 
 
 Correlação entre hábitos e notas.
-<img width="667" height="587" alt="baixados" src="https://github.com/user-attachments/assets/6f965c92-e933-4922-9380-6ed4084b6abd" />
